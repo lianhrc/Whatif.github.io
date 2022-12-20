@@ -16,9 +16,9 @@ while (true) {
         alert("Don't worry, it's not a virus.");
         alert("Hmmm..");
         alert("U know what if's?..");
-        alert('What if Tayo pala talaga?, ' + n);
-        alert('What if Hintayin talaga kita?, ' + n);
-        alert('What if di na talaga ko torpe, ' + n);
+        alert('What if Tayo pala talaga? ' + n);
+        alert('What if Hintayin talaga kita? ' + n);
+        alert('What if di na talaga ko torpe? ' + n);
         alert('xD, What if lang naman AHAHAH');
         alert('Before this year ends... ' + n);
         alert('I just want to say na...');
